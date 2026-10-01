@@ -1,16 +1,17 @@
-## Hi there 👋
+## Привіт! 👋
 
-<!--
-**shreinerlytshiy-design/shreinerlytshiy-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Мене звати **Віталій**, і я розвиваю **[Roliki.ua](https://roliki.ua/)** — магазин спорту на колесах з Одеси.
 
-Here are some ideas to get you started:
+🛼 Велосипеди, ролики, самокати, скейти та електротранспорт
+🔧 Власний сервіс і ремонт роликів, самокатів та скейтів
+📦 Понад 5000 найменувань запчастин і аксесуарів на складі
+📍 Одеса, Україна
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Де нас знайти
+- 🌐 Сайт: [roliki.ua](https://roliki.ua/)
+- 🛠 Ремонт і сервіс: [roliki.ua/repair](https://roliki.ua/repair/roliki/)
+- 📸 Instagram: [@rolikiua](https://www.instagram.com/rolikiua/)
+
+---
+
+*Спорт на колесах — твій активний відпочинок починається тут.* 🚲
